@@ -1,0 +1,16 @@
+Class diagram is a static diagram it represents the static view of an application class diagram is not only used for visualizing describing and documenting different aspects of the system but also for constructing executable code of the software application
+Class diagram show a collection of classes interfaces association and constraints. It is also known as structural diagram
+Purpose:
+The purpose of class diagram is to model the static vies of the application. It can be summarised as follows:
+i)Analysis and design of the static view of the application
+ii) Describe responsibility(attributes and methods) of a system
+iii) Base for component and deployment diagram
+
+Forward and Reverse Engineering:
+There are some points which should be remembered while drawing a class diagram:
+i) The name of the class diagram should be meaningful to describe the aspects of the system.
+ii) Each elment and their relationships should be identified in advance
+
+Responsibility:
+Responsibilities of each class should be clearly identified
+For each class minimum number of propereties shold be specified
